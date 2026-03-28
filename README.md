@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razerxp&show_icons=true&locale=en" alt="razerxp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razerxp&" alt="razerxp" /></p>
+
+![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/ritamde25)
